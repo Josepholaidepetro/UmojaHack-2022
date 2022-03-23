@@ -13,5 +13,3 @@ Data Scientists on this project:
 | Eniola      | [Eniola](https://www.linkedin.com/in/eniola-olaleye-361b39160/) |
 | Saheed    | [Saheed](https://www.linkedin.com/in/azeez-saheed)     |
 | Cruise | [Joseph](https://www.linkedin.com/in/josepholaide)   |
-
-[I'm an inline-style link](https://www.google.com)
